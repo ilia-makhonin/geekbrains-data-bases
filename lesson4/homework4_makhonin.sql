@@ -1,0 +1,3 @@
+USE `employees`;
+
+DESC `employees`;
